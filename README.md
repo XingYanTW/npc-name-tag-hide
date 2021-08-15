@@ -1,4 +1,5 @@
 # Citizens Npc Name Tag Hide
+## Read this article when ```/npc name``` cannot be used
 
 Languages: [繁體中文](https://github.com/XingYanTW/npc-name-tag-hide/blob/main/README_TW.md) | [简体中文](https://github.com/XingYanTW/npc-name-tag-hide/blob/main/README_CN.md)
 
