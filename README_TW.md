@@ -1,4 +1,4 @@
-# CNpc 隱藏名稱
+# Citizens Npc 隱藏名稱
 
 [English](https://github.com/XingYanTW/npc-name-tag-hide/blob/main/README.md)
 
