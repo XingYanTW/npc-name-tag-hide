@@ -1,6 +1,6 @@
 # Citizens Npc 隐藏名称
 
-[English](https://github.com/XingYanTW/npc-name-tag-hide/blob/main/README.md) [繁體中文](https://github.com/XingYanTW/npc-name-tag-hide/blob/main/README_TW.md)
+Languages: [English](https://github.com/XingYanTW/npc-name-tag-hide/blob/main/README.md) | [繁體中文](https://github.com/XingYanTW/npc-name-tag-hide/blob/main/README_TW.md)
 
  1.你需要先安装一个插件名为 [Denizen](https://www.spigotmc.org/resources/denizen.21039/) 才能使用指令!
 
