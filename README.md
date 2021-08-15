@@ -1,4 +1,6 @@
-# Npc Name Tag Hide
+# Citizens Npc Name Tag Hide
+
+[Traditional](https://github.com/XingYanTW/npc-name-tag-hide/blob/main/README_TW.md) [Simplified]
 
 1.You need install plugins like [TAB](https://github.com/NEZNAMY/TAB) he will invisible name tag and create a armorstand for new nametag
 
